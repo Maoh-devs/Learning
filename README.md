@@ -1,2 +1,2 @@
 > [!NOTE] 
-> Aqui tienes una nota
+> Este codigo son solo projectos sencillos-intermedios de la universidad y tiempo libre
