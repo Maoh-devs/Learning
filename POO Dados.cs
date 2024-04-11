@@ -14,7 +14,7 @@ namespace ConsoleApp1
             //Si saca los 3 dados iguales gana
             Game juego = new Game();
             juego.Play();
-            Console.ReadLine();
+            Console.Readkey();
         }
 
         class Dado
@@ -28,7 +28,7 @@ namespace ConsoleApp1
             }
             public void Launch()
             {
-                val = rand.Next(1,6);
+                val = rand.Next(1, 6);
             }
             public void Show()
             {
